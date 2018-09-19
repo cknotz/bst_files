@@ -6,4 +6,4 @@ All files were created using the <makebst> routine.
 
 IMPORTANT: The files approximate the journal styles as closely as possible, but some tweaking may still be required!
 
-These files are provided free of charge. I do not accept any liability for damages incurred while using any of these files.
+These files are provided free of charge. I do not accept any liability for damages incurred through using any of these files.
